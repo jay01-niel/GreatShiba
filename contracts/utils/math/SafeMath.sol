@@ -12,7 +12,7 @@ pragma solidity ^0.8.0;
  * NOTE: `SafeMath` is no longer needed starting with Solidity 0.8. The compiler
  * now has built in overflow checking.
  */
-library GreatShibainu {
+library SafeMath {
     /**
      * @dev Returns the addition of two unsigned integers, with an overflow flag.
      *
